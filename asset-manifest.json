@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/3d/static/css/main.effb51e5.css",
+    "main.js": "/3d/static/js/main.fc6830c5.js",
+    "static/js/206.febe4e54.chunk.js": "/3d/static/js/206.febe4e54.chunk.js",
+    "static/media/tripguide.png": "/3d/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/herobg.png": "/3d/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/3d/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/3d/static/media/jobit.755da7149642fd049273.png",
+    "static/media/web.png": "/3d/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/3d/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/3d/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/3d/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/3d/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "/3d/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/logo.svg": "/3d/static/media/logo.55ac93d127ce315b29dc8c7a742875dc.svg",
+    "static/media/close.svg": "/3d/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
+    "static/media/menu.svg": "/3d/static/media/menu.2a3ae1561cc481fcfd42696ff2caf94e.svg",
+    "static/media/threejs.svg": "/3d/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
+    "index.html": "/3d/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.effb51e5.css",
+    "static/js/main.fc6830c5.js"
+  ]
+}
