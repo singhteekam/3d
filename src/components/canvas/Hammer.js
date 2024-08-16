@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import CanvasLoader from "../Loader";
 
 const Hammer = () => {
-    const model = useGLTF("/hammer/model.gltf");
+    const model = useGLTF("./hammer/model.gltf");
   
     const animations = useAnimations(model.animations, model.scene);
     console.log(animations);
@@ -39,7 +39,7 @@ const Hammer = () => {
     );
   };
   
-  useGLTF.preload("/hammer/model.gltf");
+  useGLTF.preload("./hammer/model.gltf");
 
 const HammerCanvas = () => {
   const [isMobile, setIsMobile] = useState(false);
